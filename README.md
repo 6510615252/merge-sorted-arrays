@@ -9,14 +9,10 @@
 
 npm install
 
-# 3. Run the project (optional)
+# 3. Run the project
 
 npx ts-node src/merge.ts
 
 # 4. Run unit tests
 
 npm test
-
-# 5. Build project (optional)
-
-npm run build

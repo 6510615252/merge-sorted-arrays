@@ -24,6 +24,6 @@ export function merge(c1: number[], c2: number[], c3: number[]): number[] {
 
 if (require.main === module) {
   console.log(
-    merge([1,4,7], [10,8,6,2], [3,5,9])
+    merge([1,4,7], [10,8,6,2], [3,5,9]) //change this line to test with other inputs
   );
 }
