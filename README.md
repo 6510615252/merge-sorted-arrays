@@ -11,7 +11,7 @@ npm install
 
 # 3. Run the project (optional)
 
-npx ts-node src/index.ts
+npx ts-node src/merge.ts
 
 # 4. Run unit tests
 
