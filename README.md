@@ -2,8 +2,8 @@
 
 # 1. Clone the repository
 
-git clone https://github.com/6510615252/merge-sorted-arrays.git
-cd merge-sorted-arrays
+- git clone https://github.com/6510615252/merge-sorted-arrays.git
+- cd merge-sorted-arrays
 
 # 2. Install dependencies
 
